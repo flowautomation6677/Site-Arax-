@@ -186,7 +186,7 @@ export default function Home() {
               <h2 className="text-3xl md:text-5xl font-heading font-extrabold text-slate-900">
                 Um processo cirúrgico, sem atrito.
               </h2>
-              <p className="text-lg text-slate-600 max-w-2xl mx-auto">Não paralisamos a sua operação para implementar. O nosso método correbe em um fluxo lateral, transparente e agressivamente eficaz.</p>
+              <p className="text-lg text-slate-600 max-w-2xl mx-auto">Não paralisamos a sua operação para implementar. O nosso método corre em um fluxo lateral, transparente e agressivamente eficaz.</p>
             </div>
 
             <div className="flex flex-col md:flex-row gap-8 relative items-start">
@@ -341,7 +341,7 @@ export default function Home() {
                Continuar fazendo a mesma gestão fragmentada fará você chegar ao ano que vem exatamente com a mesma carga penal.
              </p>
              <div className="pt-8 block">
-               <a href="https://wa.me/numerodefinido" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center whitespace-nowrap rounded-md font-medium transition-all focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-white disabled:pointer-events-none disabled:opacity-50 font-heading bg-slate-900 text-white hover:bg-slate-800 shadow-2xl shadow-slate-900/50 text-lg px-10 h-16 w-full md:w-auto animate-pulse-button">
+               <a href="https://wa.me/numerodefinido" target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center text-center whitespace-normal rounded-md font-medium transition-all focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-white disabled:pointer-events-none disabled:opacity-50 font-heading bg-slate-900 text-white hover:bg-slate-800 shadow-2xl shadow-slate-900/50 text-lg px-6 py-4 min-h-[4rem] w-full md:w-auto animate-pulse-button">
                  👉 Quero Agendar Meu Mapeamento Estratégico
                </a>
              </div>
